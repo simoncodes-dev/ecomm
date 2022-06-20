@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "title": "Test product",
+    "price": 20,
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=",
+    "id": "b4080e7f"
+  },
+  {
+    "title": "Another new product",
+    "price": 10,
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=",
+    "id": "12345678"
+  }
+]
